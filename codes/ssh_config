@@ -1,0 +1,20 @@
+Host svr0
+  HostName 10.0.0.2
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
+Host svr1
+  HostName 10.1.0.2
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
+Host svr2
+  HostName 10.2.0.2
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
+Host svr3
+  HostName 10.3.0.2
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
+Host svr4
+  HostName 10.4.0.2
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
